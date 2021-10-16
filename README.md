@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Reactjs
 - 👋I’m currently student at 1337 (42 Network)
 - 📫 How to reach me Qadilanass10@gmail.com
-- Twitter: https://twitter.com/Anas_Qadil
-- Instagram: https://www.instagram.com/anas_qadil/
+- Twitter: https://twitter.com/Anas_Qadil\
 
 <!---
 Anas-Qadil/Anas-Qadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
