@@ -1,4 +1,4 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aqadil)]
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aqadil)](https://github.com/Anas-Qadil)
 
 <!---
 Anas-Qadil/Anas-Qadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
