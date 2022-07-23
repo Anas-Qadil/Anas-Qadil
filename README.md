@@ -7,11 +7,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Anas Qadil</h1>
 <h3 align="center">A Passionate Back-End Developer From Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-qadil&label=Profile%20views&color=0e75b6&style=flat" alt="anas-qadil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-qadil" alt="anas-qadil" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anas_qadil" target="blank"><img src="https://img.shields.io/twitter/follow/anas_qadil?logo=twitter&style=for-the-badge" alt="anas_qadil" /></a> </p>
 
 - 🔭 I’m currently working on [Matcha](https://github.com/Anas-Qadil/matcha)
