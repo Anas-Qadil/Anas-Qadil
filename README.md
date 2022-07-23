@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Anas Qadil</h1>
+<h3 align="center">A Passionate Back-End Developer From Morocco</h3>
+<br />
+
 [![aqadil's 42 stats](https://badge.mediaplus.ma/kettlebells/aqadil)](https://github.com/Anas-Qadil)
 
 
@@ -5,21 +9,7 @@
 Anas-Qadil/Anas-Qadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Anas Qadil</h1>
-<h3 align="center">A Passionate Back-End Developer From Morocco</h3>
-<p align="left"> <a href="https://twitter.com/anas_qadil" target="blank"><img src="https://img.shields.io/twitter/follow/anas_qadil?logo=twitter&style=for-the-badge" alt="anas_qadil" /></a> </p>
 
-- 🔭 I’m currently working on [Matcha](https://github.com/Anas-Qadil/matcha)
-
-- 🌱 I’m currently learning **Nodejs And React**
-
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-
-- 💬 Ask me about **react, expressjs**
-
-- 📫 How to reach me **aqadil@student.1337.ma**
-<h1 align="center">Hi 👋, I'm Anas Qadil</h1>
-<h3 align="center">A Passionate Back-End Developer From Morocco</h3>
 
 <p align="left"> <a href="https://twitter.com/anas_qadil" target="blank"><img src="https://img.shields.io/twitter/follow/anas_qadil?logo=twitter&style=for-the-badge" alt="anas_qadil" /></a> </p>
 
