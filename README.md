@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on Making a web browser from scratch
 
-- 🌱 I’m currently learning **Nodejs And React**
+- 🌱 I’m currently learning **Network programming**
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
