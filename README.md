@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Qadil</h1>
-<h3 align="center">A Passionate Back-End Developer From Morocco</h3>
+<h3 align="center">A Passionate Back-end Developer From Morocco</h3>
 <br />
 
 [![aqadil's 42 stats](https://badge.mediaplus.ma/kettlebells/aqadil)](https://github.com/Anas-Qadil)
