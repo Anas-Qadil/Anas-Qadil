@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/anas_qadil" target="blank"><img src="https://img.shields.io/twitter/follow/anas_qadil?logo=twitter&style=for-the-badge" alt="anas_qadil" /></a> </p>
 
-- 🔭 I’m currently working on Making a web browser from scratch
-
 - 🌱 I’m currently learning **Network programming**
 
 - 📫 How to reach me **Qadilanass10@gmail.com**
