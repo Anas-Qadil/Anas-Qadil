@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anas Qadil</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 <br />
-<img src="https://github.com/Anas-Qadil/Anas-Qadil/blob/main/name.png?raw=true" />
+<img src="https://github.com/Anas-Qadil/Anas-Qadil/blob/main/name.png?raw=true" width="100%" />
 <!-- <img src="[/path/to/img.jpg](https://github.com/Anas-Qadil/Anas-Qadil/blob/main/name.png)" alt="Alt text" title="Optional title"> -->
 
 
