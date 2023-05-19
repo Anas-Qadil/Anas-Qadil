@@ -2,4 +2,17 @@
 <br />
 <ht />
 
-Hi, I'm Anas Qadil, a passionate software developer with a diverse range of interests. I specialize in full-stack development, which allows me to work on both the frontend and backend aspects of software applications. From crafting intuitive user interfaces to implementing robust server-side logic, I enjoy building complete solutions that bring ideas to life.
+### Hi there, I'm Anas Qadil! 
+
+```plaintext
+const developer = {
+  name: "Anas Qadil",
+  interests: ["Full-stack Development", "Low-level Programming", "Malware Analytics"],
+  bio: "A passionate software developer with a diverse range of interests...",
+  contact: "Qadilanass10@gmail.com",
+};
+
+console.log(`Hi, I'm ${developer.name}!`);
+console.log(developer.bio);
+console.log(`You can reach me at ${developer.contact}`);
+
