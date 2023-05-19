@@ -28,7 +28,9 @@
 <h3 align="left">📫 How to reach me:</h3>
 Email: Qadilanass10@gmail.com
 <p align="left">
-<a href="https://www.linkedin.com/in/anas-qadil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-qadil/" height="30" width="40" /></a>
+<a href="https://twitter.com/anas_qadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anas_qadil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-qadil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-qadil/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xanasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xanasz" height="30" width="40" /></a>
 </p>
 
 ### ✍️ Random Dev Quote
