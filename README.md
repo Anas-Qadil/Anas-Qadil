@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Anas Qadil</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 <br />
-![alt text](https://github.com/Anas-Qadil/Anas-Qadil/assets/60858560/7d8e0f20-8c32-40ef-b3ac-48db06f717d8)
+![Alt text](https://github.com/Anas-Qadil/Anas-Qadil/blob/main/name.png)
+<!-- <img src="[/path/to/img.jpg](https://github.com/Anas-Qadil/Anas-Qadil/blob/main/name.png)" alt="Alt text" title="Optional title"> -->
 
 
 <!---
