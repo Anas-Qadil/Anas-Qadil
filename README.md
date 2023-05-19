@@ -3,8 +3,9 @@
 <ht />
 
 ### Hi there, I'm Anas Qadil! 
-<div style="overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;">
-<pre><code>
+<div style="overflow-x: auto;">
+  <pre><code>
+
 ```
 a passionate software developer with a diverse range of interests. I specialize in full-stack development, which allows me to work on both the frontend and backend aspects of software applications. From crafting intuitive user interfaces to implementing robust server-side logic, I enjoy building complete solutions that bring ideas to life.
 
